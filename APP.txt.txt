@@ -1,0 +1,1 @@
+C:\Program Files\IBM\WebSphere MQ\bin64\amqsget INPUTQ QMAP>>C:\Users\bandaru\Downloads\out.txt
